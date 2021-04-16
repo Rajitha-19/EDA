@@ -6,10 +6,13 @@
  <br></br>
  
  
+ 
   
  # OBJECTIVE OF OUR PROJECT
-  * <i>The main objective of this EDA is to find meaningful insights in the data.</i>
+  * <i>The main objective is to perform <b> EXPLORATORY DATA ANALYSIS</B> to find meaningful insights in the data.</i>
 
  # DATA RESOURCE
    * https://www.kaggle.com/jessemostipak/hotel-booking-demand
    
+# Article describing our process and work in Exploratory Data Analysis
+* https://monicaranipokuri.wixsite.com/article
