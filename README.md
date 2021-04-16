@@ -5,6 +5,7 @@
  **2. Ponduru.Rajitha    - 19PA1A05E4**
  <br></br>
  
+ ![SmartThings Bot](https://raw.githubusercontent.com/Rajitha-19/EDA/main/EDA%20image.png)
  
  
   
