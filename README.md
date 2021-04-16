@@ -14,5 +14,5 @@
  # DATA RESOURCE
    * https://www.kaggle.com/jessemostipak/hotel-booking-demand
    
-# Article describing our process and work in Exploratory Data Analysis
+# Article describing our process in Exploratory Data Analysis
 * https://monicaranipokuri.wixsite.com/article
