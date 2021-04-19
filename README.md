@@ -16,4 +16,6 @@
    * https://www.kaggle.com/jessemostipak/hotel-booking-demand
    
 # Article describing our process in Exploratory Data Analysis
+* https://medium.com/@19pa1a05e4/exploratory-data-analysis-a98c8d0a1180
+
 * https://monicaranipokuri.wixsite.com/article
